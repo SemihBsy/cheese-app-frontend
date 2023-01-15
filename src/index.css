@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+input {
+  padding: 6px;
+  border: none;
+  background-color: rgb(249, 232, 177);
+  color: black;
+  font-size: 1.2em;
+  border-radius: 20%;
+}
+
+img {
+  width: 200px;
+  border-style: outset;
+  border-radius: 5px;
+}
